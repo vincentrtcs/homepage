@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    background-color: deepskyblue;
+    flex-flow: row;
+    align-items: stretch;
+    justify-content: space-around;
+}
+.nav ul{
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav li{
+    margin: 20px;
+    display: flex;
+    align-items: stretch;
+    justify-items: center;
+}
+.body {
+    background-color: aqua;
+}
