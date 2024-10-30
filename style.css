@@ -19,4 +19,22 @@
 }
 .body {
     background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+}
+.stuff {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
 }
