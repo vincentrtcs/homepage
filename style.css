@@ -38,3 +38,9 @@
     flex-direction: column;
     margin-left: 10px;
 }
+
+img {
+    height: 20vh;
+    width: 10vw;
+    border: 2px black solid;
+}
